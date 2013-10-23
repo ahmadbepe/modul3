@@ -29,7 +29,7 @@ validate();
 <h3>Simulasi Halaman Admin</h3>
 
 <p>
-<a href="?mlogout">Logout</a>
+<a href="?m=logout">Logout</a>
 
 <p>
 Menu-menu admin ada di sini
